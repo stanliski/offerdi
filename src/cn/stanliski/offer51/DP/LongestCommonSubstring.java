@@ -7,6 +7,12 @@ package cn.stanliski.offer51.DP;
  */
 public class LongestCommonSubstring {
 	
+	/**
+	 * Longest common substring II.
+	 * @param A
+	 * @param B
+	 * @return
+	 */
 	 public int longestCommonSubstringII(String A, String B) {
 	        // write your code here
 	        int maxlen = 0;
